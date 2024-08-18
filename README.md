@@ -4,3 +4,5 @@ I have developed a ML algorithm that utilizes sentiment analysis on the news rep
 
 #Sentiment Anlaysis 
 Finbert_utils.py is the algorithm I have utilized in determining the positivity and negativity sentiment on variety of news article that were collected from Alpaca news source. This determines the trading specturm and decisive pin marks on the time for buying and seeling each stalks. 
+
+![result](file:///Users/marksmacbookair/Documents/DS_Projects/trading_bot/logs/MLTrader_2024-08-17_19-57_LdF1LF_tearsheet.html)
